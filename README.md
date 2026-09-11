@@ -8,9 +8,10 @@ Fusion 360으로 설계하고 3D 프린팅으로 제작한 작업을 정리한 �
 
 | 프로젝트 | 설명 | 활동 |
 | --- | --- | --- |
-| [캠 거치대](projects/cam-mount/) | 설치 각도와 좌우 방향을 조절할 수 있는 캠 마운트 | BNW |
-| [옆면 쓰레기 개폐 장치](projects/side-waste-bin-mechanism/) | 서보모터와 기어로 구동하는 회전식 내장 쓰레기통 | BNW |
-| [모터 브라켓](projects/motor-bracket/) | 알루미늄 프로파일 프레임용 3점 고정 모터 마운트 | BNW |
+| [캠 거치대](projects/cam-mount/) | 설치 각도와 좌우 방향을 조절할 수 있는 캠 마운트 | BnW |
+| [옆면 쓰레기 개폐 장치](projects/side-waste-bin-mechanism/) | 서보모터와 기어로 구동하는 회전식 내장 쓰레기통 | BnW |
+| [모터 브라켓](projects/motor-bracket/) | 알루미늄 프로파일 프레임용 3점 고정 모터 마운트 | BnW |
+| [로봇팔 거치대](projects/robot-arm-mount/) | 로봇팔 하단부와 UWB 내장 공간을 결합한 상판 고정 구조 | BnW |
 
 ## 저장 파일 안내
 
