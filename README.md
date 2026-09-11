@@ -15,6 +15,7 @@ Fusion 360으로 설계하고 3D 프린팅으로 제작한 작업을 정리한 �
 | [로봇팔 엔드 이펙터](projects/robot-arm-end-effector/) | 6면 회전식 와이핑 스틱과 후면 솔을 결합한 청소 도구 | BnW |
 | [건강 체크 박스](projects/health-check-box/) | 사용자 인증과 건강 상태 확인 기능을 통합한 데스크톱 장치 | 전공 프로젝트 |
 | [탈부착식 창문 환기팬](projects/removable-window-ventilation-fan/) | 창문 장착 브라켓과 빗물막이를 결합한 환기 장치 | 개인 프로젝트 |
+| [Claude 사용량 모니터](projects/claude-usage-monitor/) | 남은 Claude 사용량을 동기화해 표시하는 데스크톱 장치 | 개인 프로젝트 |
 
 ## 저장 파일 안내
 

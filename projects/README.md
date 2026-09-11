@@ -17,3 +17,4 @@
 ## 개인 프로젝트
 
 - [탈부착식 창문 환기팬](removable-window-ventilation-fan/): 창문 장착 브라켓과 빗물막이를 결합한 환기 장치
+- [Claude 사용량 모니터](claude-usage-monitor/): 남은 Claude 사용량을 동기화해 표시하는 데스크톱 장치
